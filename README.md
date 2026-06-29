@@ -1,6 +1,6 @@
-# Amazon Prime TV Shows Analysis
+#Amazon Prime TV Shows Analysis
 
-## Project Overview
+ Project Overview
 
 This project analyzes an Amazon Prime TV Shows dataset to uncover insights into content distribution, genres, languages, IMDb ratings, and release trends. The analysis was performed using Excel, PostgreSQL, Python, and Power BI to demonstrate an end-to-end data analytics workflow.
 
