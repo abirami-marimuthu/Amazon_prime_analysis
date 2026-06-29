@@ -1,4 +1,4 @@
-#Amazon Prime TV Shows Analysis
+ Amazon Prime TV Shows Analysis
 
  Project Overview
 
@@ -6,7 +6,7 @@ This project analyzes an Amazon Prime TV Shows dataset to uncover insights into 
 
 
 
-## Objectives
+Objectives
 
 - Clean and prepare the dataset.
 - Analyze TV show distribution across genres and languages.
@@ -16,7 +16,7 @@ This project analyzes an Amazon Prime TV Shows dataset to uncover insights into 
 
 
 
-## Tools & Technologies
+ Tools & Technologies
 
 - Microsoft Excel
 - PostgreSQL
@@ -29,7 +29,7 @@ This project analyzes an Amazon Prime TV Shows dataset to uncover insights into 
 
 
 
-## Project Workflow
+Project Workflow
 
 1. Data Cleaning using Excel
 2. Data Import and SQL Analysis using PostgreSQL
@@ -39,7 +39,7 @@ This project analyzes an Amazon Prime TV Shows dataset to uncover insights into 
 
 
 
-## SQL Analysis
+SQL Analysis
 
 The following analyses were performed:
 
@@ -53,7 +53,7 @@ The following analyses were performed:
 
 
 
-## Python Analysis
+ Python Analysis
 
 Using Pandas and Matplotlib:
 
@@ -69,7 +69,7 @@ Using Pandas and Matplotlib:
 
 
 
-## Power BI Dashboard
+ Power BI Dashboard
 
 The dashboard includes:
 
@@ -81,7 +81,7 @@ The dashboard includes:
 - Shows Released Over Years
 - Interactive filters for Genre, Language, and Release Year
 
-## Key Insights
+ Key Insights
 
 - Drama is one of the most common genres.
 - English is the most frequently available language.
